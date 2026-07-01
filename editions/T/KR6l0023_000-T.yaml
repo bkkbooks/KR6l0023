@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6l0023/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 阿毘達磨俱舍論
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T29/T29n1558.xml
+    old_id: T29n1558
+hash: sha256:f0e890b7dab8bb4fc346672515c9b2fd5d3c80c9520159b978746fb684ce42c2
